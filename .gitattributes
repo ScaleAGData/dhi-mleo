@@ -1,4 +1,2 @@
 *.py linguist-language=Python
 *.ipynb linguist-detectable=false
-*.nc 
-#filter=lfs diff=lfs merge=lfs -text
