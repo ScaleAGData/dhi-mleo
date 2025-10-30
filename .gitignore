@@ -33,3 +33,6 @@ uv.lock
 .vscode/
 .idea/
 *.swp
+
+# data files
+*.nc
