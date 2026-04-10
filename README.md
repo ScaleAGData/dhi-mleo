@@ -30,7 +30,7 @@ You can also install feature-specific extras:
 
 For sxample
 ```bash
-pip install "dhi-mleo[ml_extra, viz, geo, notebooks] @ git+https://github.com/ScaleAGData/dhi-mleo.git"
+pip install "dhi-mleo[ml_extra,viz,geo,notebooks] @ git+https://github.com/ScaleAGData/dhi-mleo.git"
 # or
-uv pip install "dhi-mleo[ml_extra, viz, geo, notebooks] @ git+https://github.com/ScaleAGData/dhi-mleo.git"
+uv pip install "dhi-mleo[ml_extra,viz,geo,notebooks] @ git+https://github.com/ScaleAGData/dhi-mleo.git"
 ```
