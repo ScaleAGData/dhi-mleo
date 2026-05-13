@@ -35,4 +35,4 @@ uv.lock
 *.swp
 
 # data files
-*.nc
+#*.nc
