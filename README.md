@@ -72,5 +72,5 @@ flowchart TD
 ![Presto RGB Embeddings](./imgs/rgb_embeddings.png)
 
 ### Spatial Prediction Comparison
-*Comparison of soil moisture predictions: Foundation Model approach (Presto 4-embeddings + Minumal number of ) Vs Traditional ML approach (Sentinel-2 + Expert features).*
+*Comparison of soil moisture predictions: Foundation Model approach (Presto 4-embeddings + Minumal number of Expert features) Vs Traditional ML approach (Sentinel-2 + Expert features).*
 ![Prediction Comparison](./imgs/preds_comparison.png)
