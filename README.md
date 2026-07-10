@@ -7,6 +7,9 @@
 * Efficient handling of time series data.
 * A flexible workflow compatible with any machine learning model or task.
 
+## Motivation
+In-situ and satellite data often complement each other: the former provides highly accurate measurements but only at local scale and with limited temporal extent, while the latter provides spatial and temporal estimates over much larger scales but potentially with lower accuracy. By fusing the two sets of data with the help of advanced machine-learning methods, including foundation models, those synergies can be exploited to obtain robust and accurate local and regional maps. In the ScaleAgData context, the workflows presented in this repository focus on fusion of in-situ and satellite-based soil moisture estimates to be used by Water, Yield and other Research and Innovation Labs. However, those methods should be equally applicable to other biophysical parameters measurable both on the ground and from satellite sensors.   
+
 ## Installation 
 
 Quick install from GitHub:
